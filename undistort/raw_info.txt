@@ -1,0 +1,5 @@
+data type : UINT16
+Width : 2432
+Height : 1842
+BayerPattern::GRBG
+DebayerMethod::DC1394_BILINEAR
